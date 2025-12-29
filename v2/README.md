@@ -48,7 +48,7 @@ Below is a **curated list of 25 LeetCode problems** focused on:
 12.  **567. Permutation in String** 🟡
     _Sliding window + character count_
     
-13.  **438. Find All Anagrams in a String**  
+13.  **438. Find All Anagrams in a String** 🔴 
     _Sliding window_
     
 14.  **76. Minimum Window Substring**  
