@@ -63,7 +63,7 @@ Below is a **curated list of 25 LeetCode problems** focused on:
 17.  **159. Longest Substring with At Most Two Distinct Characters**  
     _Sliding window_
     
-18.  **904. Fruit Into Baskets**  
+18.  **904. Fruit Into Baskets** 🟡
     _Same pattern as above_
     
 
