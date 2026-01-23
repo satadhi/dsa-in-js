@@ -1,4 +1,5 @@
 /**
+ * @description 904. Fruit Into Baskets
  * @param {number[]} fruits
  * @return {number}
  */
